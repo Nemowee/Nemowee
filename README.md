@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nemowee
+- 👀 I’m interested in automation
+- 🌱 I’m currently learning phython
+- 💞️ I’m looking to collaborate on a garden project.
